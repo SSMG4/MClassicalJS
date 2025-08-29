@@ -139,7 +139,7 @@ var RandomLevel = function () {
 
     this.createLevel = function(seed, xSize, zSize, ySize) {
 
-        //this.progressRenderer.progressStart("Generating level");
+        //this.progressRenderer.progressStart("Generating Level");
         //return;
         var random = new Random(seed);
 

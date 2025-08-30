@@ -27,7 +27,7 @@ If you want to play fully locally without any drama, i would recommend using [Fi
 Server local basically starts a local server at ```http://localhost:PORT``` or whatever your chosen port number is.
 #### Tutorial
 - Clone the repository using ```git``` or download it as a ZIP file
-- Run ```start-server.bat``` or use the command ```http-server``` in the project's directory.
+- Run ```local-server.bat``` or use the command ```http-server``` in the project's directory.
 - Open ```localhost:8080``` in your preferred browser
 ## Online Usage
 If you want to play Minecraft Classic JS online, just go to [this website](https://ssmg4.github.io/MClassicalJS)!

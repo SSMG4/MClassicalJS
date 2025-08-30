@@ -19,9 +19,9 @@ If you want to play Minecraft Classic JS offline/locally, you're gonna have to c
 ### Fully Local
 If you want to play fully locally without any drama, i would recommend using [Firefox](https://firefox.com/) as most browsers like Chrome, Edge, Opera, Safari... seized or did not have support for loading Web Workers from ```file://```.
 #### Firefox
-* Go to the address bar and enter: about:config
-* Search for: security.fileuri.strict_origin_policy
-* Set it to false (default is true).
+* Go to the address bar and enter: ```about:config```
+* Search for: ```security.fileuri.strict_origin_policy```
+* Set it to **false** (default is **true**).
 * Restart Firefox. (optional)
 ### Server Local
 Server local basically starts a local server at ```http://localhost:PORT``` or whatever your chosen port number is.

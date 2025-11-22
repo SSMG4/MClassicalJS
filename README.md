@@ -14,6 +14,8 @@ Minecraft Classic JS hosted on GitHub, open-source, with an offline version incl
 
 This project aims to make [classic.minecraft.net](https://classic.minecraft.net) open-source (kinda). Since the assets used by Minecraft Classic JS werent publicly made available by Mojang Studios™, i decided to do so by retreiving each asset manually via [Firefox](https://firefox.com/). Now, you can do anything with it as long as you fully credit Mojang Studios™. You can do stuff like custom texture packs! Or edit the JavaScript code, change blocks, anything!
 
+</div>
+
 ## Local Usage
 If you want to play Minecraft Classic JS offline/locally, you're gonna have to choose between fully local or server local.
 ### Fully Local
